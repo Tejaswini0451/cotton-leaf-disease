@@ -1,4 +1,4 @@
-# Cotton Plant Disease Detection Using Deep Learning
+# “Cotton Plant Disease Detection Using Deep Learning: A Comparative Analysis of CNN, ResNet18, and Vision Transformer (ViT)”
 
 ## Project Description
 This project detects and classifies cotton leaf diseases using deep learning techniques. It predicts the disease category from an uploaded cotton leaf image through a Streamlit web application.
